@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BNKLovesTrollin/mpw3-for-bnk/main/images/MPW34BNK.png"/> 
+  <img src="https://github.com/BNKLovesTrollin/MPW3-For-BNK/blob/main/images/MPW4BNK.png?raw=true"/> 
 </p>
   
 **The idiotic, overhauled version of my stupid site.**
